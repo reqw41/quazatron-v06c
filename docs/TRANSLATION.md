@@ -9,7 +9,7 @@
 | сообщение 03 | `2  CURSOR KEYS OR AGF` | `2. ДЖОЙСТИК` |
 | сообщение 04 | `3  SINCLAIR INTERFACE` | `3. ДЖОЙСТИК SINCLAIR` |
 | сообщение 05 | `4  KEMPSTON OR PORT 31` | `4. ДЖОЙСТИК KEMPSTON` |
-| сообщение 06 | `SELECT 1 TO 4 / ENTER TO START GAME` | `ВЫБЕРИ 1 ИЛИ 2 / ВВОД - НАЧАТЬ ИГРУ` |
+| сообщение 06 | `SELECT 1 TO 4 / ENTER TO START GAME` | `ВЫБЕРИ 1 ИЛИ 2 / ВК - НАЧАТЬ ИГРУ` |
 | сообщение 07 | `MOBILE` | `ДВИЖЕНИЕ` |
 | сообщение 08 | `WEAPON` | `ОРУЖИЕ` |
 | сообщение 09 | `GRAPPLE` | `ЗАХВАТ` |
