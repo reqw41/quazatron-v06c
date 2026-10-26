@@ -18,7 +18,7 @@
 
 | Файл | Что это |
 |---|---|
-| [`rom/quazatron.r0m`](rom/quazatron.r0m) | русский, с 16-цветной заставкой (картинка [zxart.ee №405232](https://zxart.ee/zximages/id=405232), перекрашенная под палитру Вектора); игра сжата и распаковывается по клавише |
+| [`rom/quazatron.r0m`](rom/quazatron.r0m) | русский, с 16-цветной заставкой (загрузочная картинка оригинала, перекрашенная под палитру Вектора); игра сжата и распаковывается по клавише |
 | [`rom/quazatron-nosplash.r0m`](rom/quazatron-nosplash.r0m) | русский, без заставки — сразу меню |
 | [`rom/quazatron-en.r0m`](rom/quazatron-en.r0m), [`rom/quazatron-en-nosplash.r0m`](rom/quazatron-en-nosplash.r0m) | то же на английском (язык оригинала) |
 
@@ -105,6 +105,6 @@ tools/tempo.sh                      # темп против ZX: мини-игр�
 ## Права
 
 Quazatron © 1986 Steve Turner / Graftgold, издатель Hewson Consultants. Порт некоммерческий; код и графика
-оригинала принадлежат правообладателям, по их просьбе образы будут убраны. Картинка заставки — с
-[zxart.ee](https://zxart.ee/zximages/id=405232). Упаковщик zx0 — Einar Saukas (BSD-3, `tools/zx0/LICENSE`),
+оригинала принадлежат правообладателям, по их просьбе образы будут убраны. Заставка — загрузочная картинка
+оригинала. Упаковщик zx0 — Einar Saukas (BSD-3, `tools/zx0/LICENSE`),
 распаковщик для 8080 — Ivan Gorodetsky (ivagor).
