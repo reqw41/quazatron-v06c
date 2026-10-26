@@ -17,7 +17,7 @@ from PIL import Image
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 GAME, OUT = sys.argv[1], sys.argv[2]
-PIC = sys.argv[3] if len(sys.argv) > 3 else os.path.join(ROOT, 'src', 'splash', 'title_c2_256.png')
+PIC = sys.argv[3] if len(sys.argv) > 3 else os.path.join(ROOT, 'src', 'splash', 'title_c2.png')
 BLD = os.path.join(ROOT, 'build', 'splash'); os.makedirs(BLD, exist_ok=True)
 ZX0 = os.path.join(ROOT, 'build', 'zx0')
 SJ = os.environ.get('SJASMPLUS', os.path.abspath('tools/sjasmplus'))
