@@ -1,0 +1,1 @@
+40:up:down,45:up:up,120:up:down,125:up:up,200:left:down,205:left:up,280:right:down,285:right:up,360:right:down,365:right:up,440:down:down,445:down:up,520:left:down,525:left:up,600:down:down,605:down:up,700:down:down,900:down:up,950:left:down,1000:up:down,1200:up:up,1200:left:up

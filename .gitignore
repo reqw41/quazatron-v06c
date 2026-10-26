@@ -1,0 +1,14 @@
+build/
+zx-stand/snap/
+*.lst
+*.sld
+__pycache__/
+zx-stand/*.tr
+zx-stand/dump_*.bin
+zx-stand/scr*.txt
+zx-stand/gfxuse.txt
+
+# не публикуется: лента и образы оригинала, ПЗУ ZX, версия Турбо+
+orig/
+ref/
+zx-stand/spectrum.zip
